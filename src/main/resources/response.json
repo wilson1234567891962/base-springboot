@@ -1,0 +1,46 @@
+{
+  "months": [
+    {
+      "dueTime": 6,
+      "monthlyFee": 0,
+      "otherCosts": 0,
+      "studyCredit": 0,
+      "valueToFinance": 0
+    },
+    {
+      "dueTime": 12,
+      "monthlyFee": 0,
+      "otherCosts": 0,
+      "studyCredit": 0,
+      "valueToFinance": 0
+    },
+    {
+      "dueTime": 18,
+      "monthlyFee": 0,
+      "otherCosts": 0,
+      "studyCredit": 0,
+      "valueToFinance": 0
+    },
+    {
+      "dueTime": 24,
+      "monthlyFee": 0,
+      "otherCosts": 0,
+      "studyCredit": 0,
+      "valueToFinance": 0
+    },
+    {
+      "dueTime": 30,
+      "monthlyFee": 0,
+      "otherCosts": 0,
+      "studyCredit": 0,
+      "valueToFinance": 0
+    },
+    {
+      "dueTime": 36,
+      "monthlyFee": 0,
+      "otherCosts": 0,
+      "studyCredit": 0,
+      "valueToFinance": 0
+    }
+  ]
+}
